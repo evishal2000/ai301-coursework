@@ -133,8 +133,6 @@ This is also the basis for the claim comment you write in Unit 2.
 
 **Selection rationale**
 
-[Answer all three:
-
 1. The issue's fit to your interests and to the time available.
    Issue #33 fits my interest in backend development and concurrency.
    The proposed per-profile lock gives me a focused opportunity to
@@ -158,7 +156,6 @@ This is also the basis for the claim comment you write in Unit 2.
    reported no assignee, comments, or linked PRs, and the Path Review
    house rules allow shared issues even if classmates later claim
    it. I will wait until Unit 2 to write and post the claim comment.
-   ]
 
 ---
 
